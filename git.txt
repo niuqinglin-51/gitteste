@@ -1,2 +1,7 @@
 1.git init
 2. git clone
+
+3.git add .
+4.git commit -m "new gitt"
+5.git remote add origin 仓库名称
+6.git push -u origin master
